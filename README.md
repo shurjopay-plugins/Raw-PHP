@@ -1,5 +1,5 @@
 ### PHP shurjoPay(V2) sample ###
-	This repository is for WHMC shurjoPay plugin for version 7.x.x
+	This repository is for Raw PHP for shurjoPay integration.
 	
 ### How do I get set up? ###
 	Upload files to web root

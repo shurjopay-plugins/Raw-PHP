@@ -55,7 +55,7 @@
 	            'client_ip' => $payload['client_ip'],                
 	            'customer_name' => $payload['customer_name'],
 	            'customer_phone' => $payload['customer_phone'],
-	            'email' => $payload['email'],
+	            'customer_email' => $payload['email'],
 	            'customer_address' => $payload['customer_address'],                
 	            'customer_city' => $payload['customer_city'],
 	            'customer_state' => $payload['customer_state'],

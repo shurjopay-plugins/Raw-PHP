@@ -3,7 +3,7 @@
   require_once 'shurjoPay.php';
 
   // Merchant Return URL
-  $return_url = 'http://localhost:84/sp2-sandbox/return.php';
+  $return_url = 'http://localhost/Raw-PHP/return.php';
 
 
   $amount = (float) $_POST['pamount'];
